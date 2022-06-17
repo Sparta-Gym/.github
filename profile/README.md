@@ -1,4 +1,4 @@
-## Sparta Gym 👋
+## 💪 Sparta Gym 💪
 
 <!--
 
