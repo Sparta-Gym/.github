@@ -15,3 +15,5 @@
 + cs 리뷰
 + 백엔드 개발 로드맵
 + 개발 서적 리뷰
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSparta-Gym%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
