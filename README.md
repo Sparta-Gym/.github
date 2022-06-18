@@ -1,2 +1,2 @@
 # .github
-descrive organizaion
+describe organizaion
