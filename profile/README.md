@@ -1,5 +1,7 @@
 ## 💪 Sparta Gym 💪
 
+<!--
+
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
@@ -11,5 +13,5 @@
 
 + 코딩테스트 준비
 + cs 리뷰
-+ 백엔드 개발 로드맵
-+ 개발 서적 리뷰
++ 백엔드 개발 로드맵 관리
++ java / spring framework 스터디 계획
