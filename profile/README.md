@@ -14,4 +14,4 @@
 + 코딩테스트 준비
 + cs 리뷰
 + 백엔드 개발 로드맵 관리
-+ java / spring framework 스터디 계획
++ java / spring framework 스터디
