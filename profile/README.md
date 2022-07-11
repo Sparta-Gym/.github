@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-+ 코딩테스트 준비
-+ cs 리뷰
-+ 백엔드 개발 로드맵 관리
-+ java / spring framework 스터디
++ 코딩테스트 준비  - running
++ cs 리뷰 - running
++ 백엔드 개발 로드맵 관리 - running
++ java / spring framework 스터디 - wait for cs review finish
